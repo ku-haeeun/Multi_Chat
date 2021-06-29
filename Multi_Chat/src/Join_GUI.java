@@ -270,7 +270,7 @@ public class Join_GUI extends JFrame {
                     
              });
          
-         Idcheckbutton.addActionListener(new ActionListener() {       //>>>>>>>>>>>>>>>중복확인
+         Idcheckbutton.addActionListener(new ActionListener() {       //>>>>>>>>>>>>>중복확인
              @Override
              public void actionPerformed(ActionEvent arg0) {
               
